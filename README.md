@@ -28,7 +28,7 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
 - Now penetration tester can manually hide and unhide app icon (If victim's android version is below Android 10 then the hide/unhide button will show)
 - To unhide app icon, dial *55555# and apk icon will be unhidden.
 
-## Full documentation can be found here => https://hidden-pirates.blogspot.com/2021/01/AhMyth-Modified-Version-By-Hidden-Pirates.html
+#### Full documentation can be found here => https://hidden-pirates.blogspot.com/2021/01/AhMyth-Modified-Version-By-Hidden-Pirates.html
 
 
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only. So use it for good movement only.
